@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Bruce Carter's GitHub site
+description: Experimenting with GitHub
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
