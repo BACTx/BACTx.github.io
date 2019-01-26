@@ -1,5 +1,5 @@
 ---
-title:  TimeSeries data
+title:  TimeSeries Decomposition
 description:  WM course content
 ---
 
