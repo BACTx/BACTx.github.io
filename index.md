@@ -1,6 +1,6 @@
 ---
 title: Bruce Carter's GitHub site
-description: Experimenting with GitHub
+description: Learning and experimenting with GitHub
 ---
 
 ![My Picture](/pics/229.JPG)
