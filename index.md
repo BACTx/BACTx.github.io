@@ -7,19 +7,18 @@ description: Learning and experimenting with GitHub
 
 ![Cover Photo](/pics/Dad and Eric3.jpg)
 
-## An example of my Python development skills
 
+## An example of my Python development skills
 - [Time Series Decomposition](/timeseries/index.md)
 
-## Code Repository
 
+## Code Repository
 - [Code](https://github.com/BACTx/Code)
 
-## Websites of Interest
 
+## Websites of Interest
 - [Links](/links/index.md)
 
 
 ## Find a very young Bruce in this AA commercial!
-
 [![1989 American Airlines commercial](https://img.youtube.com/vi/FFORLtmVX04/0.jpg)](//www.youtube.com/watch?v=FFORLtmVX04&list=FLP21cKXjAyLhD6fARirfG2w&index=26&t=0s)
