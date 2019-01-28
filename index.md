@@ -3,7 +3,7 @@ title: Bruce Carter's GitHub site
 description: Learning and experimenting with GitHub
 ---
 
---- Me and my favorite guy!
+## Me and My Favorite Guy!
 
 ![My Picture](/pics/Dad and Eric.JPG)
 
