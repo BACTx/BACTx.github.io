@@ -9,7 +9,7 @@ description: Learning and experimenting with GitHub
 
 ## An example of my Python development skills
 
-![Time Series Decomposition](/timeseries/index.md)
+- [Time Series Decomposition](/timeseries/index.md)
 
 ## Sample Repository
 
