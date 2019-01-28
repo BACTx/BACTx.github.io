@@ -11,9 +11,9 @@ description: Learning and experimenting with GitHub
 
 - [Time Series Decomposition](/timeseries/index.md)
 
-## Sample Repository
+## Code Repository
 
-- [Sample Repository](https://github.com/BACTx/sample)
+- [Code](/code/index.md)
 
 ## Websites of Interest
 
