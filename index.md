@@ -13,7 +13,7 @@ description: Learning and experimenting with GitHub
 
 ## Sample Repository
 
-(https://github.com/BACTx/sample)
+- [Sample repository](https://github.com/BACTx/sample)
 
 
 ## Find a very young Bruce in this AA commercial!
