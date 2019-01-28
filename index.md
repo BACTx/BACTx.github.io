@@ -5,7 +5,7 @@ description: Learning and experimenting with GitHub
 
 ## Me and My Favorite Guy
 
-![Cover Photo](/pics/Dad and Eric.jpg)
+![Cover Photo](/pics/Dad and Eric3.jpg)
 
 ## An example of my Python development skills
 
