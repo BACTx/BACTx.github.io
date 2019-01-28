@@ -5,7 +5,7 @@ description: Learning and experimenting with GitHub
 
 ## Me and My Favorite Guy
 
-![Cover photo](/pics/Dad and Eric.jpg)
+![Cover Photo](/pics/Dad and Eric.jpg)
 
 ## An example of my Python development skills
 
@@ -13,11 +13,11 @@ description: Learning and experimenting with GitHub
 
 ## Sample Repository
 
-- [Sample repository](https://github.com/BACTx/sample)
+- [Sample Repository](https://github.com/BACTx/sample)
 
 ## Websites of Interest
 
-- [LinkedIn](/links/index.md)
+- [Links](/links/index.md)
 
 
 ## Find a very young Bruce in this AA commercial!
