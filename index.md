@@ -15,6 +15,10 @@ description: Learning and experimenting with GitHub
 
 - [Sample repository](https://github.com/BACTx/sample)
 
+## Bruce's LinkedIn.com
+
+- [LinkedIn](/links/index.md)
+
 
 ## Find a very young Bruce in this AA commercial!
 
