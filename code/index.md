@@ -9,4 +9,4 @@ description: Home for example Python, R, and SAS code
 
 ### R examples
 
-### SAS exmaples
+### SAS examples
