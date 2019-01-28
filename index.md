@@ -15,7 +15,7 @@ description: Learning and experimenting with GitHub
 
 - [Sample repository](https://github.com/BACTx/sample)
 
-## Bruce's LinkedIn.com
+## Websites of Interest
 
 - [LinkedIn](/links/index.md)
 
