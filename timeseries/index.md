@@ -4,6 +4,6 @@ description:  WM course content
 ---
 
 
-This is my timeseries data
+Time series code in .html and .ipynb
 - [Time series decomposition (html)](M3TimeSeriesDecomposition.html)
 - [Time series decomposition (ipynb)](M3TimeSeriesDecomposition.ipynb)
