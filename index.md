@@ -3,7 +3,9 @@ title: Bruce Carter's GitHub site
 description: Learning and experimenting with GitHub
 ---
 
-![My Picture](/pics/229.JPG)
+--- Me and my favorite guy!
+
+![My Picture](/pics/Dad and Eric.JPG)
 
 - [This is content that I've developed](/timeseries/index.md)
 
