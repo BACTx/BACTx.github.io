@@ -8,7 +8,7 @@ description: Learning and experimenting with GitHub
 ![Cover photo](/pics/Dad and Eric.jpg)
 
 ## An example of my Python development skills
-![Timeseries graph](/timeseries/index.md)
+![Time Series Decomposition](/timeseries/index.md)
 
 ## Sample Repository
 (https://github.com/BACTx/sample)
