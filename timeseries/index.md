@@ -1,5 +1,5 @@
 ---
-title:  TimeSeries Decomposition
+title:  Time Series Decomposition
 description:  WM course content
 ---
 
