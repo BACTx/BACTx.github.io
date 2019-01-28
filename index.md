@@ -13,7 +13,7 @@ description: Learning and experimenting with GitHub
 
 ## Code Repository
 
-- [Code](/code/index.md)
+- (/code/readme.md)
 
 ## Websites of Interest
 
