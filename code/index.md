@@ -3,10 +3,10 @@ title: Code repository
 description: Home for example Python, R, and SAS code 
 ---
 
-### Python examples
+_Python examples_
 - [Time series decomposition (html)](M3TimeSeriesDecomposition.html)
 - [Time series decomposition (ipynb)](M3TimeSeriesDecomposition.ipynb)
 
-### R examples
+_R examples_
 
-### SAS examples
+_SAS examples_
