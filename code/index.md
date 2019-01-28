@@ -1,6 +1,6 @@
 ---
 title: Code repository
-description: Home for example Python, R, and SAS code 
+description: Home for example Python, R and SAS code 
 ---
 
 _Python examples_
