@@ -5,7 +5,7 @@ description: Learning and experimenting with GitHub
 
 ## Me and My Favorite Guy!
 
-![My Picture](/pics/Dad and Eric.JPG)
+![My Picture](/pics/Dad and Eric.jpg)
 
 - [This is content that I've developed](/timeseries/index.md)
 
