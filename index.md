@@ -13,7 +13,7 @@ description: Learning and experimenting with GitHub
 
 
 ## Code Repository
-- [Code](https://github.com/BACTx/Code)
+- [Code](https://github.com/BACTx/Code/code)
 
 
 ## Websites of Interest
